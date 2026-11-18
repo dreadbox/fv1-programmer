@@ -1,0 +1,23 @@
+# Build directory
+build/
+
+# Object files
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.d
+
+# Debug files
+*.su
+
+# IDE files
+.vscode/
+.settings/
+.project
+.cproject
+*.swp
+*.swo
+*~
